@@ -1,6 +1,7 @@
 
 
-![Imagem1](https://github.com/user-attachments/assets/317c6b00-aa49-4fcc-a18d-b8728b55aa00)
+
+![Imagem2](https://github.com/user-attachments/assets/526c43fd-4b7e-4716-ab64-67e0e697ac49)
 
 
 # ECOTECH
