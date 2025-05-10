@@ -39,4 +39,3 @@ No processo, também desenvolvemos competências importantes em planejamento, tr
 
 Esse projeto foi uma experiência valiosa que consolidou nossa formação técnica, ao mesmo tempo em que nos desafiou a pensar em soluções tecnológicas com impacto social.
 
-)
