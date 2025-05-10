@@ -1,6 +1,7 @@
 
 
-![Logo](file:///C:/Users/Adm/Pictures/Imagem1.png)
+![Imagem1](https://github.com/user-attachments/assets/317c6b00-aa49-4fcc-a18d-b8728b55aa00)
+
 
 # ECOTECH
 
