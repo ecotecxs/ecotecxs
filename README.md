@@ -24,7 +24,7 @@ O Vigia-Chuva é um site de monitoramento em tempo real que sinaliza pontos de a
 
 - [@Bietood](https://www.github.com/Bietood)
 - [@portelaa](https://www.github.com/portelaa)
-- [@maduuuuuuuuuuuuuu](https://www.github.com/maduuuuuuuuuuuuuu)
+- [@madua,aral06](https://www.github.com/maduamaral06)
 ## 🚀 Sobre nós
 Somos formados no curso de Informática (Nova Matriz) da ETEC Adolpho Berezin, iniciado em 2023.2 e concluído em 2024.2. Este projeto foi desenvolvido como parte do nosso Trabalho de Conclusão de Curso (TCC), unindo conhecimento técnico e compromisso com a sociedade.
 
